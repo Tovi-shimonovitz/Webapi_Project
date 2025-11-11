@@ -1,0 +1,136 @@
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson4\obj\Debug\net9.0\lesson4.csproj.AssemblyReference.cache
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson4\obj\Debug\net9.0\lesson4.GeneratedMSBuildEditorConfig.editorconfig
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson4\obj\Debug\net9.0\lesson4.AssemblyInfoInputs.cache
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson4\obj\Debug\net9.0\lesson4.AssemblyInfo.cs
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson4\obj\Debug\net9.0\lesson4.csproj.CoreCompileInputs.cache
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson4\obj\Debug\net9.0\lesson4.MvcApplicationPartsAssemblyInfo.cs
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson4\obj\Debug\net9.0\lesson4.MvcApplicationPartsAssemblyInfo.cache
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson4\bin\Debug\net9.0\appsettings.Development.json
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson4\bin\Debug\net9.0\appsettings.json
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson4\bin\Debug\net9.0\lesson4.staticwebassets.endpoints.json
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson4\bin\Debug\net9.0\lesson4.exe
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson4\bin\Debug\net9.0\lesson4.deps.json
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson4\bin\Debug\net9.0\lesson4.runtimeconfig.json
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson4\bin\Debug\net9.0\lesson4.dll
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson4\bin\Debug\net9.0\lesson4.pdb
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson4\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson4\bin\Debug\net9.0\Microsoft.OpenApi.dll
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson4\obj\Debug\net9.0\scopedcss\bundle\lesson4.styles.css
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson4\obj\Debug\net9.0\staticwebassets.build.json
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson4\obj\Debug\net9.0\staticwebassets.development.json
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson4\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson4\obj\Debug\net9.0\lesson4.csproj.Up2Date
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson4\obj\Debug\net9.0\lesson4.dll
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson4\obj\Debug\net9.0\refint\lesson4.dll
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson4\obj\Debug\net9.0\lesson4.pdb
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson4\obj\Debug\net9.0\lesson4.genruntimeconfig.cache
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson4\obj\Debug\net9.0\ref\lesson4.dll
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson4\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson4\obj\Debug\net9.0\rpswa.dswa.cache.json
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson4\obj\Debug\net9.0\rjimswa.dswa.cache.json
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson4\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson4\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson4\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\תכנות\יד\core\lesson4\lesson4\bin\Debug\net9.0\appsettings.Development.json
+E:\תכנות\יד\core\lesson4\lesson4\bin\Debug\net9.0\appsettings.json
+E:\תכנות\יד\core\lesson4\lesson4\bin\Debug\net9.0\lesson4.staticwebassets.endpoints.json
+E:\תכנות\יד\core\lesson4\lesson4\bin\Debug\net9.0\lesson4.exe
+E:\תכנות\יד\core\lesson4\lesson4\bin\Debug\net9.0\lesson4.deps.json
+E:\תכנות\יד\core\lesson4\lesson4\bin\Debug\net9.0\lesson4.runtimeconfig.json
+E:\תכנות\יד\core\lesson4\lesson4\bin\Debug\net9.0\lesson4.dll
+E:\תכנות\יד\core\lesson4\lesson4\bin\Debug\net9.0\lesson4.pdb
+E:\תכנות\יד\core\lesson4\lesson4\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\תכנות\יד\core\lesson4\lesson4\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\תכנות\יד\core\lesson4\lesson4\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\תכנות\יד\core\lesson4\lesson4\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\תכנות\יד\core\lesson4\lesson4\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\תכנות\יד\core\lesson4\lesson4\obj\Debug\net9.0\lesson4.csproj.AssemblyReference.cache
+E:\תכנות\יד\core\lesson4\lesson4\obj\Debug\net9.0\lesson4.GeneratedMSBuildEditorConfig.editorconfig
+E:\תכנות\יד\core\lesson4\lesson4\obj\Debug\net9.0\lesson4.AssemblyInfoInputs.cache
+E:\תכנות\יד\core\lesson4\lesson4\obj\Debug\net9.0\lesson4.AssemblyInfo.cs
+E:\תכנות\יד\core\lesson4\lesson4\obj\Debug\net9.0\lesson4.csproj.CoreCompileInputs.cache
+E:\תכנות\יד\core\lesson4\lesson4\obj\Debug\net9.0\lesson4.MvcApplicationPartsAssemblyInfo.cs
+E:\תכנות\יד\core\lesson4\lesson4\obj\Debug\net9.0\lesson4.MvcApplicationPartsAssemblyInfo.cache
+E:\תכנות\יד\core\lesson4\lesson4\obj\Debug\net9.0\scopedcss\bundle\lesson4.styles.css
+E:\תכנות\יד\core\lesson4\lesson4\obj\Debug\net9.0\staticwebassets.build.json
+E:\תכנות\יד\core\lesson4\lesson4\obj\Debug\net9.0\staticwebassets.development.json
+E:\תכנות\יד\core\lesson4\lesson4\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\תכנות\יד\core\lesson4\lesson4\obj\Debug\net9.0\staticwebassets\msbuild.lesson4.Microsoft.AspNetCore.StaticWebAssets.props
+E:\תכנות\יד\core\lesson4\lesson4\obj\Debug\net9.0\staticwebassets\msbuild.lesson4.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\תכנות\יד\core\lesson4\lesson4\obj\Debug\net9.0\staticwebassets\msbuild.build.lesson4.props
+E:\תכנות\יד\core\lesson4\lesson4\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.lesson4.props
+E:\תכנות\יד\core\lesson4\lesson4\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.lesson4.props
+E:\תכנות\יד\core\lesson4\lesson4\obj\Debug\net9.0\staticwebassets.pack.json
+E:\תכנות\יד\core\lesson4\lesson4\obj\Debug\net9.0\lesson4.csproj.Up2Date
+E:\תכנות\יד\core\lesson4\lesson4\obj\Debug\net9.0\lesson4.dll
+E:\תכנות\יד\core\lesson4\lesson4\obj\Debug\net9.0\refint\lesson4.dll
+E:\תכנות\יד\core\lesson4\lesson4\obj\Debug\net9.0\lesson4.pdb
+E:\תכנות\יד\core\lesson4\lesson4\obj\Debug\net9.0\lesson4.genruntimeconfig.cache
+E:\תכנות\יד\core\lesson4\lesson4\obj\Debug\net9.0\ref\lesson4.dll
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson5\lesson4\obj\Debug\net9.0\lesson4.csproj.AssemblyReference.cache
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson5\lesson4\obj\Debug\net9.0\rpswa.dswa.cache.json
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson5\lesson4\obj\Debug\net9.0\lesson4.GeneratedMSBuildEditorConfig.editorconfig
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson5\lesson4\obj\Debug\net9.0\lesson4.AssemblyInfoInputs.cache
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson5\lesson4\obj\Debug\net9.0\lesson4.AssemblyInfo.cs
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson5\lesson4\obj\Debug\net9.0\lesson4.csproj.CoreCompileInputs.cache
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson5\lesson4\obj\Debug\net9.0\lesson4.MvcApplicationPartsAssemblyInfo.cs
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson5\lesson4\obj\Debug\net9.0\lesson4.MvcApplicationPartsAssemblyInfo.cache
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson5\lesson4\obj\Debug\net9.0\lesson4.dll
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson5\lesson4\obj\Debug\net9.0\refint\lesson4.dll
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson5\lesson4\obj\Debug\net9.0\lesson4.pdb
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson5\lesson4\bin\Debug\net9.0\appsettings.Development.json
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson5\lesson4\bin\Debug\net9.0\appsettings.json
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson5\lesson4\bin\Debug\net9.0\lesson4.staticwebassets.endpoints.json
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson5\lesson4\bin\Debug\net9.0\lesson4.exe
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson5\lesson4\bin\Debug\net9.0\lesson4.deps.json
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson5\lesson4\bin\Debug\net9.0\lesson4.runtimeconfig.json
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson5\lesson4\bin\Debug\net9.0\lesson4.dll
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson5\lesson4\bin\Debug\net9.0\lesson4.pdb
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson5\lesson4\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson5\lesson4\bin\Debug\net9.0\Microsoft.OpenApi.dll
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson5\lesson4\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson5\lesson4\obj\Debug\net9.0\rjimswa.dswa.cache.json
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson5\lesson4\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson5\lesson4\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson5\lesson4\obj\Debug\net9.0\scopedcss\bundle\lesson4.styles.css
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson5\lesson4\obj\Debug\net9.0\staticwebassets.build.json
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson5\lesson4\obj\Debug\net9.0\staticwebassets.build.json.cache
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson5\lesson4\obj\Debug\net9.0\staticwebassets.development.json
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson5\lesson4\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson5\lesson4\obj\Debug\net9.0\lesson4.csproj.Up2Date
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson5\lesson4\obj\Debug\net9.0\lesson4.genruntimeconfig.cache
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson5\lesson4\obj\Debug\net9.0\ref\lesson4.dll
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson6\webapiProject\obj\Debug\net9.0\lesson4.csproj.AssemblyReference.cache
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson6\webapiProject\obj\Debug\net9.0\lesson4.GeneratedMSBuildEditorConfig.editorconfig
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson6\webapiProject\obj\Debug\net9.0\lesson4.AssemblyInfoInputs.cache
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson6\webapiProject\obj\Debug\net9.0\lesson4.AssemblyInfo.cs
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson6\webapiProject\obj\Debug\net9.0\lesson4.csproj.CoreCompileInputs.cache
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson6\webapiProject\obj\Debug\net9.0\lesson4.MvcApplicationPartsAssemblyInfo.cs
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson6\webapiProject\obj\Debug\net9.0\lesson4.MvcApplicationPartsAssemblyInfo.cache
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson6\webapiProject\obj\Debug\net9.0\lesson4.dll
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson6\webapiProject\obj\Debug\net9.0\refint\lesson4.dll
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson6\webapiProject\obj\Debug\net9.0\lesson4.pdb
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson6\webapiProject\bin\Debug\net9.0\appsettings.Development.json
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson6\webapiProject\bin\Debug\net9.0\appsettings.json
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson6\webapiProject\bin\Debug\net9.0\lesson4.staticwebassets.endpoints.json
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson6\webapiProject\bin\Debug\net9.0\lesson4.exe
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson6\webapiProject\bin\Debug\net9.0\lesson4.deps.json
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson6\webapiProject\bin\Debug\net9.0\lesson4.runtimeconfig.json
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson6\webapiProject\bin\Debug\net9.0\lesson4.dll
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson6\webapiProject\bin\Debug\net9.0\lesson4.pdb
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson6\webapiProject\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson6\webapiProject\bin\Debug\net9.0\Microsoft.OpenApi.dll
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson6\webapiProject\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson6\webapiProject\obj\Debug\net9.0\scopedcss\bundle\lesson4.styles.css
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson6\webapiProject\obj\Debug\net9.0\staticwebassets.build.json
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson6\webapiProject\obj\Debug\net9.0\staticwebassets.development.json
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson6\webapiProject\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson6\webapiProject\obj\Debug\net9.0\staticwebassets\msbuild.lesson4.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson6\webapiProject\obj\Debug\net9.0\staticwebassets\msbuild.lesson4.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson6\webapiProject\obj\Debug\net9.0\staticwebassets\msbuild.build.lesson4.props
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson6\webapiProject\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.lesson4.props
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson6\webapiProject\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.lesson4.props
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson6\webapiProject\obj\Debug\net9.0\staticwebassets.pack.json
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson6\webapiProject\obj\Debug\net9.0\lesson4.csproj.Up2Date
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson6\webapiProject\obj\Debug\net9.0\lesson4.genruntimeconfig.cache
+Z:\יד תשפו\שמעונוביץ טובה\core\lesson6\webapiProject\obj\Debug\net9.0\ref\lesson4.dll
