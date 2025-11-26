@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "DdGLQaHqYupKbsc8HMLI5XeG4aJCuJbTVZekDqlGiWk=",
+  "Source": "project",
+  "BasePath": "_content/project",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "project\\wwwroot",
+      "Source": "project",
+      "ContentRoot": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\version8\\project\\wwwroot\\",
+      "BasePath": "_content/project",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\version8\\project\\wwwroot\\css\\site.css",
+      "SourceId": "project",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\version8\\project\\wwwroot\\",
+      "BasePath": "_content/project",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\version8\\project\\wwwroot\\index.html",
+      "SourceId": "project",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\version8\\project\\wwwroot\\",
+      "BasePath": "_content/project",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\version8\\project\\wwwroot\\js\\site.js",
+      "SourceId": "project",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\version8\\project\\wwwroot\\",
+      "BasePath": "_content/project",
+      "RelativePath": "js/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ]
+}
