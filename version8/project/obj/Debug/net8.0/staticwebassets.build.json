@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DdGLQaHqYupKbsc8HMLI5XeG4aJCuJbTVZekDqlGiWk=",
+  "Hash": "Y5q8YPbrQL6JoKxjkyKZy8efpSsEKpPxnRCzalkcauA=",
   "Source": "project",
   "BasePath": "_content/project",
   "Mode": "Default",
@@ -10,68 +10,322 @@
     {
       "Name": "project\\wwwroot",
       "Source": "project",
-      "ContentRoot": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\version8\\project\\wwwroot\\",
+      "ContentRoot": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\webapiProject\\version8\\project\\wwwroot\\",
       "BasePath": "_content/project",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\version8\\project\\wwwroot\\css\\site.css",
+      "Identity": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\webapiProject\\version8\\project\\wwwroot\\css\\site.css",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\version8\\project\\wwwroot\\",
+      "ContentRoot": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\webapiProject\\version8\\project\\wwwroot\\",
       "BasePath": "_content/project",
-      "RelativePath": "css/site.css",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "zoxlk5se5i",
+      "Integrity": "06WPOIW5/mIO+16lWWyaJd8OL4taYJX8l7d24pTFPC4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\version8\\project\\wwwroot\\index.html",
+      "Identity": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\webapiProject\\version8\\project\\wwwroot\\index.html",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\version8\\project\\wwwroot\\",
+      "ContentRoot": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\webapiProject\\version8\\project\\wwwroot\\",
       "BasePath": "_content/project",
-      "RelativePath": "index.html",
+      "RelativePath": "index#[.{fingerprint}]?.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "t5mny87d70",
+      "Integrity": "8QFXVuGZZy8HlwE4tftQfdkZ5CXzu6ZSO4JV3nOEA0g=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\version8\\project\\wwwroot\\js\\site.js",
+      "Identity": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\webapiProject\\version8\\project\\wwwroot\\js\\site.js",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\version8\\project\\wwwroot\\",
+      "ContentRoot": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\webapiProject\\version8\\project\\wwwroot\\",
       "BasePath": "_content/project",
-      "RelativePath": "js/site.js",
+      "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "sevp1nmhtu",
+      "Integrity": "RGgTyjqmnKFCqEY2dR9FYUL0lnr/nvPc/TlDzFmKz+8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.css",
+      "AssetFile": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\webapiProject\\version8\\project\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "332"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"06WPOIW5/mIO+16lWWyaJd8OL4taYJX8l7d24pTFPC4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 11:55:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-06WPOIW5/mIO+16lWWyaJd8OL4taYJX8l7d24pTFPC4="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.zoxlk5se5i.css",
+      "AssetFile": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\webapiProject\\version8\\project\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "332"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"06WPOIW5/mIO+16lWWyaJd8OL4taYJX8l7d24pTFPC4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 11:55:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zoxlk5se5i"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-06WPOIW5/mIO+16lWWyaJd8OL4taYJX8l7d24pTFPC4="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\webapiProject\\version8\\project\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1331"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8QFXVuGZZy8HlwE4tftQfdkZ5CXzu6ZSO4JV3nOEA0g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 12:06:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8QFXVuGZZy8HlwE4tftQfdkZ5CXzu6ZSO4JV3nOEA0g="
+        }
+      ]
+    },
+    {
+      "Route": "index.t5mny87d70.html",
+      "AssetFile": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\webapiProject\\version8\\project\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1331"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8QFXVuGZZy8HlwE4tftQfdkZ5CXzu6ZSO4JV3nOEA0g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 12:06:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t5mny87d70"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8QFXVuGZZy8HlwE4tftQfdkZ5CXzu6ZSO4JV3nOEA0g="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\webapiProject\\version8\\project\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3703"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RGgTyjqmnKFCqEY2dR9FYUL0lnr/nvPc/TlDzFmKz+8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 12:12:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RGgTyjqmnKFCqEY2dR9FYUL0lnr/nvPc/TlDzFmKz+8="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.sevp1nmhtu.js",
+      "AssetFile": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\webapiProject\\version8\\project\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3703"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RGgTyjqmnKFCqEY2dR9FYUL0lnr/nvPc/TlDzFmKz+8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Nov 2025 12:12:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sevp1nmhtu"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RGgTyjqmnKFCqEY2dR9FYUL0lnr/nvPc/TlDzFmKz+8="
+        }
+      ]
     }
   ]
 }

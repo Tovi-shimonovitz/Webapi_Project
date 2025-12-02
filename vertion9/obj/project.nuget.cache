@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qr3ifLO5R+A=",
+  "dgSpecHash": "oIKPYyZfxWE=",
   "success": true,
-  "projectFilePath": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\lesson6\\webapiProject\\lesson4.csproj",
+  "projectFilePath": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\webapiProject\\vertion9\\lesson4.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\huser\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
     "C:\\Users\\huser\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",

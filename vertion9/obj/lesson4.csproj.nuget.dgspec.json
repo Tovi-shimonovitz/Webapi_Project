@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\lesson6\\webapiProject\\lesson4.csproj": {}
+    "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\webapiProject\\vertion9\\lesson4.csproj": {}
   },
   "projects": {
-    "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\lesson6\\webapiProject\\lesson4.csproj": {
+    "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\webapiProject\\vertion9\\lesson4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\lesson6\\webapiProject\\lesson4.csproj",
+        "projectUniqueName": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\webapiProject\\vertion9\\lesson4.csproj",
         "projectName": "lesson4",
-        "projectPath": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\lesson6\\webapiProject\\lesson4.csproj",
+        "projectPath": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\webapiProject\\vertion9\\lesson4.csproj",
         "packagesPath": "C:\\Users\\huser\\.nuget\\packages\\",
-        "outputPath": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\lesson6\\webapiProject\\obj\\",
+        "outputPath": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\webapiProject\\vertion9\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
