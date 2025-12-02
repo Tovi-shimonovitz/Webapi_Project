@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Y5q8YPbrQL6JoKxjkyKZy8efpSsEKpPxnRCzalkcauA=",
+  "Hash": "gs+hMXKtUy8MPSJgMN6hYQ7WSkzE9+eoSXp13Kuyfyc=",
   "Source": "project",
   "BasePath": "_content/project",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "project\\wwwroot",
       "Source": "project",
-      "ContentRoot": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\webapiProject\\version8\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\טובי\\תכנות\\יד\\core\\webapiGithub\\repo\\Webapi_Project\\version8\\project\\wwwroot\\",
       "BasePath": "_content/project",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\webapiProject\\version8\\project\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\USER\\Desktop\\טובי\\תכנות\\יד\\core\\webapiGithub\\repo\\Webapi_Project\\version8\\project\\wwwroot\\css\\site.css",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\webapiProject\\version8\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\טובי\\תכנות\\יד\\core\\webapiGithub\\repo\\Webapi_Project\\version8\\project\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -38,10 +38,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\webapiProject\\version8\\project\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\USER\\Desktop\\טובי\\תכנות\\יד\\core\\webapiGithub\\repo\\Webapi_Project\\version8\\project\\wwwroot\\index.html",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\webapiProject\\version8\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\טובי\\תכנות\\יד\\core\\webapiGithub\\repo\\Webapi_Project\\version8\\project\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "index#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -59,10 +59,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\webapiProject\\version8\\project\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\USER\\Desktop\\טובי\\תכנות\\יד\\core\\webapiGithub\\repo\\Webapi_Project\\version8\\project\\wwwroot\\js\\site.js",
       "SourceId": "project",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\webapiProject\\version8\\project\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USER\\Desktop\\טובי\\תכנות\\יד\\core\\webapiGithub\\repo\\Webapi_Project\\version8\\project\\wwwroot\\",
       "BasePath": "_content/project",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -83,7 +83,7 @@
   "Endpoints": [
     {
       "Route": "css/site.css",
-      "AssetFile": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\webapiProject\\version8\\project\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\USER\\Desktop\\טובי\\תכנות\\יד\\core\\webapiGithub\\repo\\Webapi_Project\\version8\\project\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -104,7 +104,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Nov 2025 11:55:38 GMT"
+          "Value": "Fri, 28 Nov 2025 09:46:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -120,7 +120,7 @@
     },
     {
       "Route": "css/site.zoxlk5se5i.css",
-      "AssetFile": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\webapiProject\\version8\\project\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\USER\\Desktop\\טובי\\תכנות\\יד\\core\\webapiGithub\\repo\\Webapi_Project\\version8\\project\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -141,7 +141,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Nov 2025 11:55:38 GMT"
+          "Value": "Fri, 28 Nov 2025 09:46:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -165,7 +165,7 @@
     },
     {
       "Route": "index.html",
-      "AssetFile": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\webapiProject\\version8\\project\\wwwroot\\index.html",
+      "AssetFile": "C:\\Users\\USER\\Desktop\\טובי\\תכנות\\יד\\core\\webapiGithub\\repo\\Webapi_Project\\version8\\project\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -186,7 +186,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Nov 2025 12:06:53 GMT"
+          "Value": "Fri, 28 Nov 2025 09:46:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -202,7 +202,7 @@
     },
     {
       "Route": "index.t5mny87d70.html",
-      "AssetFile": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\webapiProject\\version8\\project\\wwwroot\\index.html",
+      "AssetFile": "C:\\Users\\USER\\Desktop\\טובי\\תכנות\\יד\\core\\webapiGithub\\repo\\Webapi_Project\\version8\\project\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -223,7 +223,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Nov 2025 12:06:53 GMT"
+          "Value": "Fri, 28 Nov 2025 09:46:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -247,7 +247,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\webapiProject\\version8\\project\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Users\\USER\\Desktop\\טובי\\תכנות\\יד\\core\\webapiGithub\\repo\\Webapi_Project\\version8\\project\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -268,7 +268,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Nov 2025 12:12:27 GMT"
+          "Value": "Fri, 28 Nov 2025 09:46:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -284,7 +284,7 @@
     },
     {
       "Route": "js/site.sevp1nmhtu.js",
-      "AssetFile": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\webapiProject\\version8\\project\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Users\\USER\\Desktop\\טובי\\תכנות\\יד\\core\\webapiGithub\\repo\\Webapi_Project\\version8\\project\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -305,7 +305,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 18 Nov 2025 12:12:27 GMT"
+          "Value": "Fri, 28 Nov 2025 09:46:35 GMT"
         },
         {
           "Name": "Cache-Control",
