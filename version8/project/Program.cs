@@ -1,12 +1,16 @@
 using lesson4.interfaces;
 using lesson4.Services;
 using LogMiddleware;
+using Myuser.Services;
+using user.interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddMusicService();
 builder.Services.AddControllers();
+builder.Services.AddUserService();
+
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
@@ -17,7 +21,7 @@ builder.Logging.AddConsole();
 var app = builder.Build();
 
 
-app.UseLogMiddleware();
+
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -30,7 +34,7 @@ if (app.Environment.IsDevelopment())
     //     options.SwaggerEndpoint("/openapi/v1.json", "v1");
     // });
 }
-
+app.UseLogMiddleware();
 
 
 
