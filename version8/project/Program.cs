@@ -19,7 +19,7 @@ builder.Logging.AddConsole();
 
 
 var app = builder.Build();
-
+//app.Logger.LogInformation("Application started");
 
 
 

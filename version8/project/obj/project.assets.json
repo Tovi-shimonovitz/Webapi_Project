@@ -428,23 +428,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\huser\\.nuget\\packages\\": {},
+    "C:\\Users\\USER\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\webapiProject\\version8\\project\\project.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\טובי\\תכנות\\יד\\core\\webapiGithub\\repo\\Webapi_Project\\version8\\project\\project.csproj",
       "projectName": "project",
-      "projectPath": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\webapiProject\\version8\\project\\project.csproj",
-      "packagesPath": "C:\\Users\\huser\\.nuget\\packages\\",
-      "outputPath": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\webapiProject\\version8\\project\\obj\\",
+      "projectPath": "C:\\Users\\USER\\Desktop\\טובי\\תכנות\\יד\\core\\webapiGithub\\repo\\Webapi_Project\\version8\\project\\project.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\טובי\\תכנות\\יד\\core\\webapiGithub\\repo\\Webapi_Project\\version8\\project\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\huser\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -452,7 +452,11 @@
         "net8.0"
       ],
       "sources": {
+<<<<<<< HEAD
         "c:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+=======
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+>>>>>>> 01741222b7950a1e12bb02d4f1ee235c00153f12
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -471,7 +475,11 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
+<<<<<<< HEAD
       "SdkAnalysisLevel": "9.0.300"
+=======
+      "SdkAnalysisLevel": "9.0.200"
+>>>>>>> 01741222b7950a1e12bb02d4f1ee235c00153f12
     },
     "frameworks": {
       "net8.0": {
@@ -501,7 +509,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "c:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 01741222b7950a1e12bb02d4f1ee235c00153f12
       }
     }
   }
