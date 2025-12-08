@@ -1,17 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="./css/site.css">
 </head>
+
 <body>
-    
-    <h1>Music CRUD</h1>
+
+    <h1>User CRUD</h1>
     <h3>Add</h3>
     <form action="javascript:void(0);" method="POST" onsubmit="addItem()">
-        <input type="text" id="add-name" placeholder="New user" >
+        <input type="text" id="add-name" placeholder="New musical instruments">
         <input type="submit" value="Add">
     </form>
 
@@ -19,7 +21,7 @@
         <h3>Edit</h3>
         <form action="javascript:void(0);" onsubmit="updateItem()">
             <input type="hidden" id="edit-id">
-            <input type="checkbox" id="edit-IsAccompanying">
+            <!-- <input type="checkbox" id="edit-IsAccompanying"> -->
             <input type="text" id="edit-name">
             <input type="submit" value="Save">
             <a onclick="closeInput()" aria-label="Close">&#10006;</a>
@@ -30,7 +32,7 @@
 
     <table>
         <tr>
-            <th>Is Accompanying?</th>
+            <th>age</th>
             <th>Name</th>
             <th></th>
             <th></th>
@@ -38,12 +40,11 @@
         <tbody id="musics"></tbody>
     </table>
 
-   <a href="./user.html"> <button>to users page click me </button></a>
-
-    <script src="./js/site.js" asp-append-version="true"></script>
+    <script src="./js/user.js" asp-append-version="true"></script>
     <script type="text/javascript">
         getItems();
     </script>
-    
+
 </body>
+
 </html>

@@ -5,18 +5,20 @@ using Myuser.Services;
 using user.interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
-
+//
 // Add services to the container.
-builder.Services.AddMusicService();
 builder.Services.AddControllers();
+builder.Services.AddMusicService();
+
 builder.Services.AddUserService();
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+//builder.Services.AddOpenApi();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Logging.ClearProviders();//log4net seriLog
+builder.Logging.ClearProviders();
 builder.Logging.AddConsole(); 
-
+// builder.Logging.SetMinimumLevel(LogLevel.Debug);
 
 var app = builder.Build();
 //app.Logger.LogInformation("Application started");

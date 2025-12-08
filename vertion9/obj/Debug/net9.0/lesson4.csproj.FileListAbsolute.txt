@@ -156,8 +156,6 @@ Z:\יד תשפו\שמעונוביץ טובה\core\webapiProject\vertion9\obj\Deb
 Z:\יד תשפו\שמעונוביץ טובה\core\webapiProject\vertion9\obj\Debug\net9.0\lesson4.sourcelink.json
 Z:\יד תשפו\שמעונוביץ טובה\core\webapiProject\vertion9\obj\Debug\net9.0\scopedcss\bundle\lesson4.styles.css
 Z:\יד תשפו\שמעונוביץ טובה\core\webapiProject\vertion9\obj\Debug\net9.0\compressed\52xql5t7c0-zoxlk5se5i.gz
-Z:\יד תשפו\שמעונוביץ טובה\core\webapiProject\vertion9\obj\Debug\net9.0\compressed\re2hvjzyjh-t5mny87d70.gz
-Z:\יד תשפו\שמעונוביץ טובה\core\webapiProject\vertion9\obj\Debug\net9.0\compressed\p94bx0q8ky-sevp1nmhtu.gz
 Z:\יד תשפו\שמעונוביץ טובה\core\webapiProject\vertion9\obj\Debug\net9.0\staticwebassets.build.json
 Z:\יד תשפו\שמעונוביץ טובה\core\webapiProject\vertion9\obj\Debug\net9.0\staticwebassets.development.json
 Z:\יד תשפו\שמעונוביץ טובה\core\webapiProject\vertion9\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -173,3 +171,7 @@ Z:\יד תשפו\שמעונוביץ טובה\core\webapiProject\vertion9\obj\Deb
 Z:\יד תשפו\שמעונוביץ טובה\core\webapiProject\vertion9\obj\Debug\net9.0\lesson4.pdb
 Z:\יד תשפו\שמעונוביץ טובה\core\webapiProject\vertion9\obj\Debug\net9.0\lesson4.genruntimeconfig.cache
 Z:\יד תשפו\שמעונוביץ טובה\core\webapiProject\vertion9\obj\Debug\net9.0\ref\lesson4.dll
+Z:\יד תשפו\שמעונוביץ טובה\core\webapiProject\vertion9\obj\Debug\net9.0\compressed\re2hvjzyjh-1440t4nw58.gz
+Z:\יד תשפו\שמעונוביץ טובה\core\webapiProject\vertion9\obj\Debug\net9.0\compressed\p94bx0q8ky-h4xsrz1280.gz
+Z:\יד תשפו\שמעונוביץ טובה\core\webapiProject\vertion9\obj\Debug\net9.0\compressed\zryvm2ao6r-akaeucbzh5.gz
+Z:\יד תשפו\שמעונוביץ טובה\core\webapiProject\vertion9\obj\Debug\net9.0\compressed\pyed0negdy-axzavi27gk.gz

@@ -1,7 +1,8 @@
-const uri = '/Music';
-let music = [];
+const uri = '/User';
+let users = [];
 
 function getItems() {
+    debugger;
     fetch(uri)
         .then(response => response.json())
         .then(data => _displayItems(data))
@@ -12,18 +13,19 @@ function addItem() {
     const addNameTextbox = document.getElementById('add-name');
 
     const item = {
-       
-        name: addNameTextbox.value.trim()
+
+        name: addNameTextbox.value.trim(),
+        age: 18
     };
 
     fetch(uri, {
-            method: 'POST',
-            headers: {
-                'Accept': 'application/json',
-                'Content-Type': 'application/json'
-            },
-            body: JSON.stringify(item)
-        })
+        method: 'POST',
+        headers: {
+            'Accept': 'application/json',
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(item)
+    })
         .then(response => response.json())
         .then(() => {
             getItems();
@@ -34,18 +36,18 @@ function addItem() {
 
 function deleteItem(id) {
     fetch(`${uri}/${id}`, {
-            method: 'DELETE'
-        })
+        method: 'DELETE'
+    })
         .then(() => getItems())
         .catch(error => console.error('Unable to delete item.', error));
 }
 
 function displayEditForm(id) {
-    const item = music.find(item => item.id === id);
+    const item = users.find(item => item.id === id);
 
     document.getElementById('edit-name').value = item.name;
     document.getElementById('edit-id').value = item.id;
-    document.getElementById('edit-IsAccompanying').checked = item.IsAccompanying;
+
     document.getElementById('editForm').style.display = 'block';
 }
 
@@ -53,18 +55,18 @@ function updateItem() {
     const itemId = document.getElementById('edit-id').value;
     const item = {
         id: parseInt(itemId, 10),
-        IsAccompanying: document.getElementById('edit-IsAccompanying').checked,
+
         name: document.getElementById('edit-name').value.trim()
     };
 
     fetch(`${uri}/${itemId}`, {
-            method: 'PUT',
-            headers: {
-                'Accept': 'application/json',
-                'Content-Type': 'application/json'
-            },
-            body: JSON.stringify(item)
-        })
+        method: 'PUT',
+        headers: {
+            'Accept': 'application/json',
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(item)
+    })
         .then(() => getItems())
         .catch(error => console.error('Unable to update item.', error));
 
@@ -92,10 +94,10 @@ function _displayItems(data) {
     const button = document.createElement('button');
 
     data.forEach(item => {
-        let isGlutenFreeCheckbox = document.createElement('input');
-        isGlutenFreeCheckbox.type = 'checkbox';
-        isGlutenFreeCheckbox.disabled = true;
-        isGlutenFreeCheckbox.checked = item.IsAccompanying;
+        let age = document.createElement('input');
+        age.type = 'number';
+        age.disabled = false;
+        age.checked = item.age;
 
         let editButton = button.cloneNode(false);
         editButton.innerText = 'Edit';
@@ -108,7 +110,10 @@ function _displayItems(data) {
         let tr = tBody.insertRow();
 
         let td1 = tr.insertCell(0);
-        td1.appendChild(isGlutenFreeCheckbox);
+        td1.appendChild(document.createTextNode(item.age));
+
+
+
 
         let td2 = tr.insertCell(1);
         let textNode = document.createTextNode(item.name);
@@ -121,6 +126,6 @@ function _displayItems(data) {
         td4.appendChild(deleteButton);
     });
 
-    music = data;
+    users = data;
 }
 

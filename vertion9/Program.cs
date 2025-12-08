@@ -1,5 +1,8 @@
 using lesson4.interfaces;
 using lesson4.Services;
+using LogMiddleware;
+using Myuser.Services;
+using user.interfaces;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -7,10 +10,12 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddMusicService();
 builder.Services.AddControllers();
+builder.Services.AddUserService();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
 builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
+builder.Logging.ClearProviders();
+builder.Logging.AddConsole();
 
 var app = builder.Build();
 
@@ -26,6 +31,8 @@ if (app.Environment.IsDevelopment())
         options.SwaggerEndpoint("/openapi/v1.json", "v1");
     });
 }
+
+app.UseLogMiddleware();
 
  app.UseDefaultFiles();
 app.UseStaticFiles();

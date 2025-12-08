@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
+      "Id": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\webapiProject\\vertion9\\wwwroot\\js\\user.js",
+      "PackagePath": "staticwebassets\\js\\user.js"
+    },
+    {
+      "Id": "Z:\\יד תשפו\\שמעונוביץ טובה\\core\\webapiProject\\vertion9\\wwwroot\\user.html",
+      "PackagePath": "staticwebassets\\user.html"
+    },
+    {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.lesson4.props",
       "PackagePath": "build\\lesson4.props"
     },
