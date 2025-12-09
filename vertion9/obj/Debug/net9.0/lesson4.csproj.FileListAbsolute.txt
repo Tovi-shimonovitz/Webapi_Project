@@ -175,3 +175,5 @@ Z:\יד תשפו\שמעונוביץ טובה\core\webapiProject\vertion9\obj\Deb
 Z:\יד תשפו\שמעונוביץ טובה\core\webapiProject\vertion9\obj\Debug\net9.0\compressed\p94bx0q8ky-h4xsrz1280.gz
 Z:\יד תשפו\שמעונוביץ טובה\core\webapiProject\vertion9\obj\Debug\net9.0\compressed\zryvm2ao6r-akaeucbzh5.gz
 Z:\יד תשפו\שמעונוביץ טובה\core\webapiProject\vertion9\obj\Debug\net9.0\compressed\pyed0negdy-axzavi27gk.gz
+Z:\יד תשפו\שמעונוביץ טובה\core\webapiProject\vertion9\bin\Debug\net9.0\Data\Music.json
+Z:\יד תשפו\שמעונוביץ טובה\core\webapiProject\vertion9\bin\Debug\net9.0\Data\User.json
