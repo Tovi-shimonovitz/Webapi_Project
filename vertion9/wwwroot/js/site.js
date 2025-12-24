@@ -1,6 +1,23 @@
 const uri = '/Music';
 let music = [];
 
+function redirectIfThereIsntToken(){
+
+    if(localStorage.getItem("user")==null){
+         const currentUrl = window.location.href; // מקבל את ה-URL הנוכחי
+        const newUrl = currentUrl.substring(0, currentUrl.lastIndexOf('/')); // מסיר את הקטע האחרון
+        console.log(newUrl+'/login.html');
+        window.location.href = newUrl+'/login.html'; // מבצע את ה-redirect
+    }
+  
+    else{
+        console.log(localStorage.getItem("user"))
+        getItems();
+    }
+}
+
+
+
 function getItems() {
     fetch(uri)
         .then(response => response.json())

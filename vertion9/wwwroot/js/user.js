@@ -2,7 +2,7 @@ const uri = '/User';
 let users = [];
 
 function getItems() {
-    debugger;
+
     fetch(uri)
         .then(response => response.json())
         .then(data => _displayItems(data))
@@ -10,12 +10,12 @@ function getItems() {
 }
 
 function addItem() {
+    //debugger;
     const addNameTextbox = document.getElementById('add-name');
-
     const item = {
-
-        name: addNameTextbox.value.trim(),
-        age: 18
+        "Id": 0,
+        "Name": addNameTextbox.value.trim(),
+        "password": addNameTextbox.value.trim()
     };
 
     fetch(uri, {
@@ -52,11 +52,13 @@ function displayEditForm(id) {
 }
 
 function updateItem() {
+
     const itemId = document.getElementById('edit-id').value;
     const item = {
         id: parseInt(itemId, 10),
 
-        name: document.getElementById('edit-name').value.trim()
+        name: document.getElementById('edit-name').value.trim(),
+        password: "44"
     };
 
     fetch(`${uri}/${itemId}`, {
@@ -94,10 +96,11 @@ function _displayItems(data) {
     const button = document.createElement('button');
 
     data.forEach(item => {
-        let age = document.createElement('input');
-        age.type = 'number';
-        age.disabled = false;
-        age.checked = item.age;
+
+        let password = document.createElement('input');
+        password.type = 'string';
+        password.disabled = false;
+        password.checked = item.password;
 
         let editButton = button.cloneNode(false);
         editButton.innerText = 'Edit';
@@ -110,9 +113,7 @@ function _displayItems(data) {
         let tr = tBody.insertRow();
 
         let td1 = tr.insertCell(0);
-        td1.appendChild(document.createTextNode(item.age));
-
-
+        td1.appendChild(document.createTextNode(item.password));
 
 
         let td2 = tr.insertCell(1);
